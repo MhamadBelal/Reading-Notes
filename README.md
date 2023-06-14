@@ -18,7 +18,7 @@ Used tools:
 **platforms for management**: `Trello, Discord, Slack.`
 
 
-And we have made the final project successfully. :shipit:
+And we have made the final project successfully. :shipit:<br>
 here is the link for the [Final Project](https://aesthetic-phoenix-14d146.netlify.app/)
 
 
