@@ -37,5 +37,5 @@ Insufficient error handling and lack of thorough testing resulted in a self-dest
 
 ## Things I want to know more about
 
-1- debugging and its types
-2- types of exceptions and how to deal with everyone 
+1. debugging and its types
+2. types of exceptions and how to deal with everyone 
