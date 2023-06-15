@@ -54,7 +54,7 @@ By covering these topics, I have developed a solid foundation in SQL and relatio
 
 ---
 
-###Practice in the Terminal
+### Practice in the Terminal
 
 During my journey of exploring the command line interface, I have acquired valuable knowledge and skills. Here's a summary of what I've learned:
 
