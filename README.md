@@ -38,3 +38,9 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 - [Practice in the Terminal](./Practice_in_the_Terminal.md)
 - [The Growth Mindset](./The_Growth_Mindset.md)
 
+
+### Course Classes
+| # | Links |
+| - | ----- |
+| Class 1 | [Exception Handling](./Exception_Handling.md) |
+
