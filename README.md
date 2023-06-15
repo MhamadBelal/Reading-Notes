@@ -38,6 +38,7 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 - [Practice in the Terminal](./Practice_in_the_Terminal.md)
 - [The Growth Mindset](./The_Growth_Mindset.md)
 - [Data Structures and Algorithms](./Data_Structures_and_Algorithms.md)
+- [Engineering Readings](./Engineering_Readings.md)
 
 
 
