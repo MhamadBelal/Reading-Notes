@@ -1,6 +1,10 @@
 # The Growth Mindset
 
+## why this topic matters as it relates to what you are studying in this module?
+
 The topic of growth mindset is crucial in the context of the module I am studying as it directly relates to personal and professional development. Embracing a growth mindset is essential for continuous learning, adaptability, and success in the ever-evolving world we live in. In this module, we are exploring various concepts and skills that require openness, resilience, and a willingness to learn from mistakes and setbacks. By understanding and cultivating a growth mindset, I can approach challenges with a positive attitude, view failures as opportunities for growth, and continuously strive for improvement. It allows me to unleash my full potential and maximize my learning experience in this module and beyond.
+
+---
 
 **EMOTIONAL INTELLIGENCE SELF:**
 
