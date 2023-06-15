@@ -29,4 +29,6 @@ here is the link for the [Final Project](https://aesthetic-phoenix-14d146.netlif
 ## Code 401 - Advanced Software Development
 
 
-
+- [SQL Practice](./SQL_Practice.md)
+- [Practice in the Terminal](./Practice_in_the_Terminal.md)
+- [The Growth Mindset](./The_Growth_Mindset.md)
