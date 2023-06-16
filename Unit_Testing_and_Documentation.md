@@ -9,9 +9,7 @@ Studying unit testing and documentation in this module is essential for software
 ## Name 3 ways in which Unit Testing improves your codebase and productivity?
 
 1. Catching Bugs Early.
-
 2. Improving Code Quality.
-
 3. Encouraging Refactoring and Modularity.
 
 ## How would you write a unit test for a household task such as putting away laundry?
@@ -26,3 +24,25 @@ Studying unit testing and documentation in this module is essential for software
 
 ---
 
+## Name 3 reasons a quality README is just as important as quality code?
+
+1. Documentation and Guidance.
+2. Onboarding and Collaboration.
+3. Project Visibility and Adoption.
+
+
+## When writing a README for your co-developers, name 4 crucial elements to include?
+
+1. Project Overview and Goals.
+2. Installation and Setup Instructions.
+3. Usage and Examples.
+4. Contribution Guidelines.
+
+
+--- 
+
+## Things I want to know more about
+
+1. How can I write effective unit tests for my code?
+2. How can I write a high-quality README that effectively communicates project information to co-developers?
+3. What are some recommended practices for documenting APIs?
