@@ -46,4 +46,5 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | # | Links |
 | - | ----- |
 | Class 1 | [Exception Handling](./Exception_Handling.md) |
+| Class 2 | [Unit Testing and Documentation](./Unit_Testing_and_Documentation.md)
 
