@@ -46,7 +46,7 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | # | Links |
 | - | ----- |
 | Class 1 | [Exception Handling](./Exception_Handling.md) |
-| Class 2 | [Unit Testing and Documentation](./Unit_Testing_and_Documentation.md)
-| Class 3 | [File Manipulation / System.IO](./File_Manipulation%26System.IO.md)
-| Class 4 | [Classes & Memory Management](./Classes%26Memory_Management.md)
-
+| Class 2 | [Unit Testing and Documentation](./Unit_Testing_and_Documentation.md) |
+| Class 3 | [File Manipulation / System.IO](./File_Manipulation%26System.IO.md) |
+| Class 4 | [Classes & Memory Management](./Classes%26Memory_Management.md) |
+| Class 5 | [Object Oriented Principles](./Object_Oriented_Principles.md) |
