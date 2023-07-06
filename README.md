@@ -53,3 +53,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 6 | [Object Oriented Principles](./Object_Oriented_Principles.md) |
 | Class 7 | [Interfaces](./Interfaces.md) |
 | Class 8 | [Collections & Enums](./Collections&Enums.md) |
+| Class 9 | [Stacks and Queues](./Stacks_and_Queues.md) |
