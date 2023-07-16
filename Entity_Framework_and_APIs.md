@@ -11,15 +11,15 @@ Entity Framework and APIs are crucial topics in software development and data ma
 
 The topics covered in the provided readings and video are as follows:
 
-MVC with EF Get Started: This reading material likely provides an introduction to using Entity Framework (EF) within the Model-View-Controller (MVC) architectural pattern. It may explain how to get started with EF in an MVC application and demonstrate the integration of data access and management using EF.
+MVC with EF Get Started: This reading material provides an introduction to using Entity Framework (EF) within the Model-View-Controller (MVC) architectural pattern. It explains how to get started with EF in an MVC application and demonstrate the integration of data access and management using EF.
 
-Entity Framework Core: This reading material focuses on Entity Framework Core, which is a lightweight, cross-platform version of EF. It may cover topics such as data modeling, querying, and performing CRUD operations using EF Core. Understanding EF Core is valuable for developers working with various databases and platforms.
+Entity Framework Core: This reading material focuses on Entity Framework Core, which is a lightweight, cross-platform version of EF. It covers topics such as data modeling, querying, and performing CRUD operations using EF Core. Understanding EF Core is valuable for developers working with various databases and platforms.
 
-Data Seeding: This reading material likely discusses the concept of data seeding in the context of Entity Framework. Data seeding involves populating a database with initial data. The article may explain how to configure and use data seeding techniques in EF, ensuring the availability of pre-defined data when the application starts.
+Data Seeding: This reading material discusses the concept of data seeding in the context of Entity Framework. Data seeding involves populating a database with initial data. The article explains how to configure and use data seeding techniques in EF, ensuring the availability of pre-defined data when the application starts.
 
-User Secrets: This reading material may explore the concept of user secrets in the context of ASP.NET Core applications. User secrets provide a secure way to store sensitive information, such as connection strings, API keys, or credentials. The article may explain how to utilize user secrets to protect sensitive data when working with EF and ASP.NET Core.
+User Secrets: This reading material explores the concept of user secrets in the context of ASP.NET Core applications. User secrets provide a secure way to store sensitive information, such as connection strings, API keys, or credentials. The article explains how to utilize user secrets to protect sensitive data when working with EF and ASP.NET Core.
 
-YouTube - Intro to APIs (60 min): This video is likely a comprehensive introduction to APIs (Application Programming Interfaces). It may cover the basics of APIs, their purpose, and how they facilitate communication between different software systems. The video may delve into topics such as RESTful architecture, HTTP methods, request/response structures, and best practices for API design.
+YouTube - Intro to APIs (60 min): It covers the basics of APIs, their purpose, and how they facilitate communication between different software systems. The video delves into topics such as RESTful architecture, HTTP methods, request/response structures, and best practices for API design.
 
 These resources collectively provide insights into using Entity Framework, specifically EF Core, in the context of MVC applications, data seeding, and user secrets. The video introduces the fundamental concepts of APIs, which are crucial for building robust and interconnected software systems.
 
