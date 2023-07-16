@@ -10,7 +10,7 @@ Collections and enums are crucial topics in programming that play a vital role i
 
 Collections in programming are crucial for organizing and managing data efficiently. This summary covers various aspects of collections, including their usage, types, and implementation. It explores simple collections and different kinds of collections like arrays, lists, sets, and maps. The System.Collections.Generic namespace provides generic collection classes that offer type safety and performance benefits. The System.Collections.Concurrent namespace offers thread-safe collection classes for multi-threaded scenarios. The System.Collections namespace contains non-generic collection classes. Topics also include implementing key/value pair collections, utilizing LINQ for data access, sorting collections, defining custom collections, and implementing iterators for sequential traversal. Understanding these topics equips programmers with the necessary knowledge to handle data effectively using collections in their programs.
 
-**ome of the frequently used classes of the System.Collections.Generic namespace:**
+**some of the frequently used classes of the System.Collections.Generic namespace:**
 1. Dictionary<TKey,TValue>:	Represents a collection of key/value pairs that are organized based on the key.
 2. List<T>:	Represents a list of objects that can be accessed by index. Provides methods to search, sort, and modify lists.
 3. Queue<T>:	Represents a first in, first out (FIFO) collection of objects.

@@ -56,4 +56,5 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 9 | [LINQ & Delegates](./LINQ&Delegates.md) |
 | Class 10 | [Stacks and Queues](./Stacks_and_Queues.md) |
 | Class 11 | [Introduction to Databases and ERDs](./Databases_and_ERDs.md) |
+| Class 12 | [Entity Framework and APIs](./Entity_Framework_and_APIs.md) |
 
