@@ -58,5 +58,6 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 11 | [Introduction to Databases and ERDs](./Databases_and_ERDs.md) |
 | Class 12 | [Entity Framework and APIs](./Entity_Framework_and_APIs.md) |
 | Class 13 | [Dependency Injection & Repository Design Pattern](./Dependency_Injection&Repository_Design_Pattern.md) |
-| Class 13 | [Navigation Properties and Routing](./Navigation_Properties_and_Routing.md) |
+| Class 14 | [Navigation Properties and Routing](./Navigation_Properties_and_Routing.md) |
+| Class 15 | [Trees](./Trees.md) |
 
