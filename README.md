@@ -62,3 +62,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 15 | [Trees](./Trees.md) |
 | Class 16 | [Data Transfer Objects](./Data_Transfer_Objects.md) |
 | Class 17 | [Testing and Swagger and Deployment](./Testing_and_Swagger_and_Deployment.md) |
+| Class 18 | [Identity](./Identity.md) |
