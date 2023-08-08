@@ -63,3 +63,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 16 | [Data Transfer Objects](./Data_Transfer_Objects.md) |
 | Class 17 | [Testing and Swagger and Deployment](./Testing_and_Swagger_and_Deployment.md) |
 | Class 18 | [Identity](./Identity.md) |
+| Class 19 | [Roles, Claims and JWT Tokens](./Roles_and_Claims_and_JWT_Tokens.md) |
