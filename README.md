@@ -66,3 +66,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 19 | [Roles, Claims and JWT Tokens](./Roles_and_Claims_and_JWT_Tokens.md) |
 | Class 26 | [Intro to MVC](./Intro_to_MVC.md) |
 | Class 27 | [MVC Forms](./MVC_Forms.md) |
+| Class 28 | [Authentication, Authorization, Cookies](./Authentication_Authorization_Cookies.md) |
