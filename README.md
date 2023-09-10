@@ -67,3 +67,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 26 | [Intro to MVC](./Intro_to_MVC.md) |
 | Class 27 | [MVC Forms](./MVC_Forms.md) |
 | Class 28 | [Authentication, Authorization, Cookies](./Authentication_Authorization_Cookies.md) |
+| Class 29 | [Azure Blob Storage](./Azure_Blob_Storage.md) |
