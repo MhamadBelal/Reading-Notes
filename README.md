@@ -69,3 +69,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 28 | [Authentication, Authorization, Cookies](./Authentication_Authorization_Cookies.md) |
 | Class 29 | [Azure Blob Storage](./Azure_Blob_Storage.md) |
 | Class 30 | [Hash Tables](./Hash_Tables.md) |
+| Class 31 | [Razor Pages](./Razor_Pages.md) |
