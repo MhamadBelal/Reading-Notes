@@ -73,3 +73,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 32 | [Razor Pages](./View_Components.md) |
 | Class 33 | [Sendgrid](./Sendgrid.md) |
 | Class 34 | [Sendgrid](./Payment_Processing.md) |
+| Class 35 | [Graphs](./Graphs.md) |
