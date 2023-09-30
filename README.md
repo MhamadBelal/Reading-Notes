@@ -74,3 +74,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 33 | [Sendgrid](./Sendgrid.md) |
 | Class 34 | [Sendgrid](./Payment_Processing.md) |
 | Class 35 | [Graphs](./Graphs.md) |
+| Class 37 | [JAM Stack](./JAM_Stack.md) |
