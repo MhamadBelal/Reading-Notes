@@ -76,3 +76,4 @@ Learn to write clean, well-tested, advanced C# code using industry-standard soft
 | Class 35 | [Graphs](./Graphs.md) |
 | Class 37 | [JAM Stack](./JAM_Stack.md) |
 | Class 38 | [React 1](./React1.md) |
+| Class 39 | [React 2](./React2.md) |
